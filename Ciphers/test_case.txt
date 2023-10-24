@@ -6,9 +6,19 @@ Ciphered message: TCdEI!NUh rl!VRGVP ONO iaur E  EUNGAYDs eoBNGA  E   O slWu ONY
 
 Deciphered message: This is a Cruel World! But NEVER GONNA GIVE YOU UP! NEVER GONNA LET YOU DOWN!
 
-#------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #Test_Case: 2
+
+Message: Adolf Hitler was the dictator of Germany from 1933 to 1945. He was responsible for the deaths of millions of people during World War II. He was a white supremacist who believed in the superiority of the Aryan race. He was also a ruthless dictator who killed anyone who opposed him.
+
+Ciphered message: A  3ao p ai i scdodstfG93wsfrfmoldW  csdirtnrloite psoahoe1     oieelaswatenoyaaa dalapelwe r teret lp rrahm v i yc a tlnodf  rmmoHelhsl do wiewetrores soiy   rdoao  sbehifuWI trhihefA.arsrkoohHeitnr1.pi toor Ieepolep   wue  nhiilcayf95osdan ig.H u e uteH tlwoewmtt 4nesn sbshehh .
+
+Deciphered message: Adolf Hitler was the dictator of Germany from 1933 to 1945. He was responsible for the deaths of millions of people during World War II. He was a white supremacist who believed in the superiority of the Aryan race. He was also a ruthless dictator who killed anyone who opposed him.
+
+#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Test_Case: 5
 
 Message: "Wormholes are theoretical tunnels through spacetime that could connect distant points in the universe. They are also known as Einstein-Rosen bridges, after the two physicists who first proposed their existence in 1935.
 
@@ -110,64 +120,4 @@ eo cteinlF ossirhaipoodio  tctetrebul oe lInx hsae hs  oacsrhatifhtwtyrieeierbni
 oerrreirdto fctr  pe o ei,an hrsi ppto stewtab oeomeesi xebmo owruw rl r eytitob iai ydn  anecu
 nsaaetiioues,rt gess u  rewrl e hwo cterhiens gctoAev
 
-Deciphered message: "Wormholes are theoretical tunnels through spacetime that could connect distant points in the universe. They are also known as Einstein-Rosen bridges, after the two physicists who first proposed their existence in 1935.
-
-Wormholes are solutions to Einstein's field equations of general relativity, which describe gravity as a curvature of spacetime. The equations allow for the possibility of wormholes, which are essentially shortcuts through spacetime.
-
-Wormholes are often depicted as being like tunnels or tubes, but they are actually more complex. They are four-dimensional objects that connect two different points in spacetime. The two points could be close together in space but separated by a great deal of time, or they could be far apart in space but close together in time.
-
-It is not yet known whether or not wormholes actually exist. There is no observational evidence for them, but they are theoretically possible. If wormholes do exist, they could potentially be used for interstellar travel, allowing humans to travel to distant stars and galaxies much faster than would be possible using conventional spacecraft.
-
-How wormholes work
-
-Wormholes are created by regions of spacetime where the curvature of spacetime is very extreme. This extreme curvature can be caused by very massive objects, such as black holes.
-
-To understand how wormholes work, it is helpful to think of spacetime as a fabric. A wormhole is like a tear in the fabric of spacetime. If you were to step through the wormhole, you would find yourself on the other side of the universe, even though you had only traveled a short distance through spacetime.
-
-However, wormholes are not as simple as they may seem. There are two main types of wormholes: traversable wormholes and non-traversable wormholes.
-
-Traversable wormholes are wormholes that are large enough and stable enough to be traveled through. Non-traversable wormholes are wormholes that are too small or too unstable to be traveled through.
-
-It is not yet known whether or not traversable wormholes actually exist. However, if they do exist, they could potentially be used for interstellar travel.
-
-Traversable wormholes
-
-Traversable wormholes are wormholes that are large enough and stable enough to be traveled through. They would have two openings, or mouths, which would be located at different points in spacetime.
-
-To travel through a traversable wormhole, you would need to enter one mouth and exit the other mouth. The journey through the wormhole would be very quick, even if the distance between the two mouths was very large.
-
-However, there are a few problems with traversable wormholes. First, they would need to be very large to be traversable. A wormhole that was too small would collapse in on itself, preventing anyone from traveling through it.
-
-Second, traversable wormholes would need to be very stable. If a wormhole was not stable, it would collapse while you were traveling through it, which would be very dangerous.
-
-Finally, it is not yet known how to create a traversable wormhole. Even if traversable wormholes do exist, they may be very difficult or impossible to create artificially.
-
-Non-traversable wormholes
-
-Non-traversable wormholes are wormholes that are too small or too unstable to be traveled through. They may be created by very massive objects, such as black holes, but they are not large enough or stable enough for anything to travel through them.
-
-Non-traversable wormholes may play an important role in the evolution of the universe. For example, some scientists believe that non-traversable wormholes could be used to explain the existence of dark matter and dark energy.
-
-Conclusion
-
-Wormholes are fascinating theoretical objects that could potentially be used for interstellar travel. However, it is not yet known whether or not wormholes actually exist. Even if they do exist, they may be very difficult or impossible to create artificially.
-
-Further research
-
-Scientists are still learning about wormholes and how they work. There is a lot of research that needs to be done before we can understand whether or not wormholes actually exist, and if so, how they could be used for interstellar travel.
-
-One area of research is focused on finding ways to detect wormholes. If we could find a way to detect wormholes, it would be a strong indication that they actually exist.
-
-Another area of research is focused on developing ways to create traversable wormholes. This research is still in its early stages, but it is possible that we may one day be able to create traversable wormholes and use them for interstellar travel.!"
-
-#------------------------------------------------------------------------------------------------------------------
-
-#Test_Case: 3
-
-Message: Adolf Hitler was the dictator of Germany from 1933 to 1945. He was responsible for the deaths of millions of people during World War II. He was a white supremacist who believed in the superiority of the Aryan race. He was also a ruthless dictator who killed anyone who opposed him.
-
-Ciphered message: A  3ao p ai i scdodstfG93wsfrfmoldW  csdirtnrloite psoahoe1     oieelaswatenoyaaa dalapelwe r teret lp rrahm v i yc a tlnodf  rmmoHelhsl do wiewetrores soiy   rdoao  sbehifuWI trhihefA.arsrkoohHeitnr1.pi toor Ieepolep   wue  nhiilcayf95osdan ig.H u e uteH tlwoewmtt 4nesn sbshehh .
-
-Deciphered message: Adolf Hitler was the dictator of Germany from 1933 to 1945. He was responsible for the deaths of millions of people during World War II. He was a white supremacist who believed in the superiority of the Aryan race. He was also a ruthless dictator who killed anyone who opposed him.
-
-#------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
