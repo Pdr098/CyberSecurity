@@ -18,6 +18,56 @@ Deciphered message: Adolf Hitler was the dictator of Germany from 1933 to 1945. 
 
 #---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#Test_Case: 3
+
+Message: James Webb Space Telescope finds evidence of water vapor in atmosphere of exoplanet WASP-96 b
+WASP-96 b is a hot Jupiter exoplanet, which means that it is a gas giant that orbits very close to its star. It is one of the hottest exoplanets known, with a surface temperature of over 1,000 degrees Celsius.
+
+The James Webb Space Telescope (JWST) has recently found evidence of water vapor in the atmosphere of WASP-96 b. This is the first time that water vapor has been detected in the atmosphere of an exoplanet using infrared spectroscopy.
+
+The discovery of water vapor in the atmosphere of WASP-96 b is a significant step forward in the search for life beyond Earth. It suggests that water vapor may be more common in the atmospheres of exoplanets than previously thought.
+
+Ciphered message: Ji e.arha ssomsb rrowpemb ina  Tfefasre a eJW6hnd roes6 t  e9ii pdms 9hIoeb-s se t W-o fhbP gptiaoePt. T Sinesn fbS rt
+SAsic  e bAJah
+pW sttthe Wute.a turnhtxS
+ps scfh oae opbi hueoetsc npa tsoi   ecisilc6ettsTefnofe ae9ritleriapiann -  eelerlynroeTPeosCehsp.gcmteSxtt spto
+ihmslAo  scs x
+s o eWpeeeooteT fcts lsxepmi hao hctaooretmne reaoenlpg aea s rnpnecle(   dilo eat adJetfi imp l,yn Whhosbf rfp re0Sta c eeeiowet0T teo6 bvnxhvs0)n rv9b idei  , iwee-eyos csk1h ahrPyau fhtn artpySomseo iorsoes An lv mbwe prooWdryieernvra mf  o drao,oevvt fEpteen   c aawoaahnhstwferp a rvocp aioneoetet uestht ttrherhrg ohthela tre.ehoma  rywh  h ttftttau  anvpIa. a n tffsiastww iasaoo  po  antiuru bdomstti greneeertuae i fpdcet aghrrssam nnci gt o aceee enee vpagetvddt hssa  iett
+
+#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Test_Case: 4
+
+Message: Scientists discover exoplanet that is potentially habitable
+Scientists have discovered an exoplanet that is potentially habitable. The exoplanet, called LHS 1439 b, is located about 40 light-years from Earth. It is a rocky planet that is about the same size as Earth.
+
+LHS 1439 b is located in the habitable zone of its star, which means that liquid water could exist on its surface. It is also possible that the exoplanet has an atmosphere.
+
+The discovery of LHS 1439 b is a significant step forward in the search for life beyond Earth. It is one of the most Earth-like exoplanets that has been discovered to date.
+
+These are just a few of the many exciting astro news stories that have been reported in recent months. Stay tuned for more updates as scientists continue to explore the universe and make new discoveries.
+
+Ciphered message: ShtonsscTerhpsodatrei  a. sy  re e.eE
+oieEgovanex 
+sbban intlosLll rinndibpaHaeetteu sal S  fhiw mttae sti.cseasinz1ihl x hk bei4 a Iestedats3ttrt t  ih, 9I o yoens  e  tfinrrecycmb.h saiowolaa eeh mel vllsic co spdeal saerne xiriee fxaehtes tdhlroe th cen toupso aooxeL csl ffttvotHta ae o  epoSutsnht herlp oetethwauia 1bdit eevnens4a   n feisei3 inhim  t.t 9snoa oabn t i  sds eotab tt rttechh,thsaa sn at aeinwEu st ih x rajrt tstheaor esie  a tftepisnltbdm hrot aoeilop-arnplcntusel teopaaaoptieeitotlbchsksdcexepl e ee sned errt hi t  y eeneTnsinakzt.ax
+ aaabcoa
+co
+r l oonw
+ip.esldure Tfleceyet  dhiatet r aoiennanahe4 fu gedtdav0s qdit  pbo iiiissomuicl tls  to tsits cat neaigI to hdtrbdh savsaehol t.theitrsmee-hatr  e. 
+vytr ybhv rSaer,s  aoSochaa no9sctfi rEwaf3 sa ess he 4biydnt mimL1ed etsfoc H e tnirhSnu
+
+Deciphered message: Scientists discover exoplanet that is potentially habitable
+Scientists have discovered an exoplanet that is potentially habitable. The exoplanet, called LHS 1439 b, is located about 40 light-years from Earth. It is a rocky planet that is about the same size as Earth.
+
+LHS 1439 b is located in the habitable zone of its star, which means that liquid water could exist on its surface. It is also possible that the exoplanet has an atmosphere.
+
+The discovery of LHS 1439 b is a significant step forward in the search for life beyond Earth. It is one of the most Earth-like exoplanets that has been discovered to date.
+
+These are just a few of the many exciting astro news stories that have been reported in recent months. Stay tuned for more updates as scientists continue to explore the universe and make new discoveries.
+
+
+#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #Test_Case: 5
 
 Message: "Wormholes are theoretical tunnels through spacetime that could connect distant points in the universe. They are also known as Einstein-Rosen bridges, after the two physicists who first proposed their existence in 1935.
