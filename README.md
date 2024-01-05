@@ -8,4 +8,4 @@ Here, It is created using Python.
 
 Ready to work with any other Projects too.
 
-Until then 😁
+For more details, visit [website](https://pdr7255.wixsite.com/thendi-aano).
