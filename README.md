@@ -1,6 +1,6 @@
 # CyberSecurity
 
-This is a part of my preparation to get into INTER-IIT TechMeet 2023.
+This is a part of my preparation to get into INTER-IIT TechMeet.
 
 This project covers works with Ciphers particularly Railfence Cipher.
 
